@@ -1,6 +1,4 @@
-### 👋 Hi, I'm Awambeng Rodrick!
 
-As a software developer with three years of experience, I have honed my skills in full-stack development, including front-end and back-end technologies. My proficiency in HTML, CSS, JavaScript, and ReactJS allows me to create responsive and user-friendly interfaces, while my knowledge of PHP and Python enables me to build robust and scalable back-ends. I have experience with various databases, including MySQL, PostgreSQL, and MongoDB, and have worked on a diverse range of projects, from small startups to large enterprises, in various industries. My strong problem-solving and communication abilities have been essential in collaborating with cross-functional teams and delivering projects on time and within budget. I am passionate about learning and staying up-to-date with the latest technologies, which has allowed me to adapt quickly to new environments and deliver innovative solutions that meet the evolving needs of my clients.
 
 <a href="">Where to find me</a>
 <--
