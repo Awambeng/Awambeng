@@ -6,11 +6,7 @@ As a software developer with three years of experience, I have honed my skills i
 
 <h3 align="left">Where to find Me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/bansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bansikah" height="30" width="40" /></a>
-<a href="https://twitter.com/@tbansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tbansikah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/update/urn:li:share:7074558452550770688/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:share:7074558452550770688/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/edit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/edit/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@tandapnoelbansikah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@tandapnoelbansikah/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:share:8821a6217/" height="30" width="40" /></a>
 </p>
 
 
