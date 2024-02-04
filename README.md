@@ -1,8 +1,6 @@
 👋 Hi, I'm Awambeng Rodrick!
 As a software developer with three years of experience, I have honed my skills in full-stack development, including front-end and back-end technologies. My proficiency in HTML, CSS, JavaScript, and ReactJS allows me to create responsive and user-friendly interfaces, while my knowledge of PHP and Python enables me to build robust and scalable back-ends. I have experience with various databases, including MySQL, PostgreSQL, and MongoDB, and have worked on a diverse range of projects, from small startups to large enterprises, in various industries. My strong problem-solving and communication abilities have been essential in collaborating with cross-functional teams and delivering projects on time and within budget. I am passionate about learning and staying up-to-date with the latest technologies, which has allowed me to adapt quickly to new environments and deliver innovative solutions that meet the evolving needs of my clients.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansikah&label=Profile%20views&color=0e75b6&style=flat" alt="bansikah" /> </p>
-
 <h3 align="left">Where to find Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:share:8821a6217/" height="30" width="40" /></a>
