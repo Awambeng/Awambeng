@@ -15,3 +15,5 @@ As a software developer with three years of experience, I have honed my skills i
 ---
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awambeng&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Awambeng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
