@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900" height="500" alt="Coding GIF"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Awambeng Rodrick Bolan</h1>
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Awambeng"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:awambengrodrick@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=awambengrodrick@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -59,59 +59,47 @@ Passionate about **clean code, automation, and IT security**, I enjoy solving co
 
 ---
 
-## Experience
+## 💼 Experience
+
 ### Full-Stack Developer & DevOps Engineer | Adorsys
 **April 2024 – Present** | Cameroon  
-- Build secure backend and frontend components for EUDI-Wallet using Java (Spring Boot) and TypeScript (React).  
-- Implement CI/CD pipelines with GitHub Actions, Docker, and Kubernetes for scalable deployments.  
-- Configure Keycloak for robust IAM, integrating OAuth2 and OIDC protocols.  
-- Enhance security with encryption, penetration testing, and blockchain integration for wallet solutions.
+- Build **secure backend and frontend components** for **EUDI-Wallet** using **Java (Spring Boot)** and **TypeScript (React)**.  
+- Implement **CI/CD pipelines** with **GitHub Actions, Docker, and Kubernetes** for scalable deployments.  
+- Configure **Keycloak** for robust **IAM**, integrating **OAuth2** and **OIDC** protocols.  
+- Enhance security with **encryption, penetration testing**, and **blockchain integration** for wallet solutions.
 
 ### Backend Developer | Adorsys (Datasafe)
 **April 2024 – July 2024**  
-- Developed RESTful APIs and implemented security measures for data protection.  
-- Conducted performance testing to ensure scalability under high loads.
+- Developed **RESTful APIs** and implemented security measures for **data protection**.  
+- Conducted **performance testing** to ensure scalability under high loads.
 
 ### Full-Stack Developer | Adorsys (e2e-banking-app)
 **January 2024 – March 2024**  
-- Built features using React and Node.js, improving user experience and application performance.  
-- Wrote automated tests with JUnit and Selenium for robust code quality.
-- Implemented robust security measures to protect user data.
+- Built features using **React** and **Node.js**, improving **user experience** and **application performance**.  
+- Wrote **automated tests** with **JUnit** and **Selenium** for robust code quality.  
+- Implemented **robust security measures** to protect user data.
 
 ---
 
-## Featured Projects
-- **DATEV Wallet** | Ongoing  
-  Developing a PWA React wallet app with Spring Boot backend, using AWS, Docker, and Kubernetes for deployment. Integrated Keycloak for secure authentication.  
-  Built libraries and a PWA for a secure wallet, focusing on blockchain integration and REST API connectivity.  
-- **Datasafe** | 2024  
-  Created secure REST APIs and optimized backend performance for data storage solutions.
+## 🚀 Featured Projects
 
----
+- **DATEV Wallet** | *Ongoing*  
+  Developing a **PWA React wallet app** with a **Spring Boot backend**, deployed using **AWS, Docker, and Kubernetes**. Integrated **Keycloak** for secure authentication.  
+  Built libraries and the PWA for a **secure wallet**, focusing on **blockchain integration** and **REST API connectivity**.
 
-## Education & Certifications
-- **B. Eng. Computer Engineering** | FOTSO Victor University, Cameroon | 2022 – 2023  
-- **Java Certified Foundations Associate** | Oracle | 2024  
-- **LPIC-1** | Linux Professional Institute | 2024  
-- **Security of IT Infrastructure** | ANSSI | 2024  
-- **Cybersecurity for Everyone** | Coursera | 2023  
-- **Cameroon Digital Skills Campaign** | ANTIC | 2023  
-
----
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awambeng&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awambeng&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="45%"/>
-</p>
+- **Datasafe** | *2024*  
+  Created **secure REST APIs** and optimized **backend performance** for **data storage solutions**.
 
 ---
 
 ## Connect
-- 📧 **Email**: [awambengrodrick@gmail.com](mailto:awambengrodrick@gmail.com)  
-- 📞 **Phone**: +237 6 95 73 10 90  
+- 📧 **Email**: [awambengrodrick@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=awambengrodrick@gmail.com)
 - 🔗 **LinkedIn**: [Awambeng Rodrick Bolan](https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/)  
 - 🖥️ **GitHub**: [Awambeng](https://github.com/Awambeng)  
+
+---
+
+<p align="center">✨ *“Striving for clean code, secure systems, and meaningful innovation.”* ✨</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Awambeng&style=flat-square&color=orange" alt="Profile Views"/>
