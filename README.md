@@ -9,6 +9,7 @@
   <a href="https://github.com/Awambeng"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=awambengrodrick@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a align="center"><img src="https://komarev.com/ghpvc/?username=Awambeng&style=flat-square&color=orange" alt="Profile Views"/></a>
 </p>
 
 ---
@@ -112,7 +113,3 @@ Here are a few areas I'm currently exploring:
 ---
 
 <p align="center">✨ *“Striving for clean code, secure systems, and meaningful innovation.”* ✨</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Awambeng&style=flat-square&color=orange" alt="Profile Views"/>
-</p>
