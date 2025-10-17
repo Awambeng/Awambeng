@@ -72,6 +72,15 @@ Here are a few areas I'm currently exploring:
 
 ---
 
+## 🌟 Contributions
+
+I actively contribute to open-source projects to give back to the community and sharpen my skills.  
+Here is one of my contributions:
+
+- **oid4vci** (part of the Keycloak ecosystem): [View PRs](https://github.com/keycloak/keycloak/pulls?q=is%3Apr+author%3AAwambeng+is%3Aclosed)
+
+---
+
 ## 💼 Experience
 
 ### 👨‍💻 Full-Stack Developer & DevOps Engineer | Adorsys
