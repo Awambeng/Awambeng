@@ -18,7 +18,18 @@ Software engineer and DevOps enthusiast with expertise in building **secure, sca
 
 Passionate about **clean code, automation, and IT security**, I enjoy solving complex problems and leveraging AI-assisted tools to optimize software development. *(Fluent in English and French.)*
 
+---
 
+## 🌱 Current Topics of Interest
+I'm constantly exploring emerging technologies and methodologies that enhance modern software engineering.  
+Here are a few areas I'm currently exploring:
+
+- 🤖 **AI-Assisted Software Engineering** — using AI tools to improve productivity, testing, and code quality.  
+- 🧩 **Self-Sovereign Identity (SSI)** & **Verifiable Credentials (VCs)** — driving innovation in digital identity.  
+- ☁️ **Cloud-Native Architecture** — leveraging AWS, Kubernetes, and Terraform for scalable applications.  
+- 🔐 **Zero Trust Security** & **OAuth2/OIDC** — implementing stronger authentication and data protection.  
+- ⚙️ **Automation & Integration** — building intelligent workflows using tools like n8n and custom GPT agents.  
+- 🌐 **Web3 & Blockchain** — exploring decentralized technologies and identity interoperability.
 
 ---
 
@@ -55,6 +66,7 @@ Passionate about **clean code, automation, and IT security**, I enjoy solving co
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
   <img src="https://img.shields.io/badge/ByteRover-000000?style=flat-square&logo=ai&logoColor=white" alt="ByteRover"/>
   <img src="https://img.shields.io/badge/Cipher-000000?style=flat-square&logo=ai&logoColor=white" alt="Cipher"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat-square&logo=openai&logoColor=white" alt="AI Automation"/>
 </p>
 
 ---
