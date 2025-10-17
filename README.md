@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Awambeng Rodrick Bolan</h1>
-<h3 align="center"> Software Engineer | DevOps Engineer | Keycloak Committer</h3>
+<h3 align="center">💻 Software Engineer | ⚙️ DevOps Engineer | 🛡️ Keycloak Committer</h3>
 <p align="center">📍 Bangangte, Cameroon</p>
 <p align="center">
   <a href="https://github.com/Awambeng"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 Software engineer and DevOps enthusiast with expertise in building **secure, scalable software solutions** for banking, finance, and identity management. Skilled in **Java, JavaScript, TypeScript**, and frameworks like **Spring Boot** and **React**. Experienced in **DevOps workflows** using **Docker, AWS, and Kubernetes**, with deep knowledge of **Keycloak** for IAM solutions.
 
 Passionate about **clean code, automation, and IT security**, I enjoy solving complex problems and leveraging AI-assisted tools to optimize software development. *(Fluent in English and French.)*
@@ -22,7 +22,7 @@ Passionate about **clean code, automation, and IT security**, I enjoy solving co
 
 ---
 
-## Skills
+## 🧰 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -61,19 +61,19 @@ Passionate about **clean code, automation, and IT security**, I enjoy solving co
 
 ## 💼 Experience
 
-### Full-Stack Developer & DevOps Engineer | Adorsys
+### 👨‍💻 Full-Stack Developer & DevOps Engineer | Adorsys
 **April 2024 – Present** | Cameroon  
 - Build **secure backend and frontend components** for **EUDI-Wallet** using **Java (Spring Boot)** and **TypeScript (React)**.  
 - Implement **CI/CD pipelines** with **GitHub Actions, Docker, and Kubernetes** for scalable deployments.  
 - Configure **Keycloak** for robust **IAM**, integrating **OAuth2** and **OIDC** protocols.  
 - Enhance security with **encryption, penetration testing**, and **blockchain integration** for wallet solutions.
 
-### Backend Developer | Adorsys (Datasafe)
+### 🛠️ Backend Developer | Adorsys (Datasafe)
 **April 2024 – July 2024**  
 - Developed **RESTful APIs** and implemented security measures for **data protection**.  
 - Conducted **performance testing** to ensure scalability under high loads.
 
-### Full-Stack Developer | Adorsys (e2e-banking-app)
+### 👨‍💻 Full-Stack Developer | Adorsys (e2e-banking-app)
 **January 2024 – March 2024**  
 - Built features using **React** and **Node.js**, improving **user experience** and **application performance**.  
 - Wrote **automated tests** with **JUnit** and **Selenium** for robust code quality.  
@@ -92,7 +92,7 @@ Passionate about **clean code, automation, and IT security**, I enjoy solving co
 
 ---
 
-## Connect
+## 🌐 Connect
 - 📧 **Email**: [awambengrodrick@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=awambengrodrick@gmail.com)
 - 🔗 **LinkedIn**: [Awambeng Rodrick Bolan](https://www.linkedin.com/in/awambeng-rodrick-bolan-8821a6217/)  
 - 🖥️ **GitHub**: [Awambeng](https://github.com/Awambeng)  
