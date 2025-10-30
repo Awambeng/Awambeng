@@ -34,6 +34,11 @@ Here are a few areas I'm currently exploring:
 
 ---
 
+## My Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awambeng&show_icons=true&theme=dark)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Awambeng&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
 ## 🧰 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
